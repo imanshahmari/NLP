@@ -1,0 +1,1 @@
+Neighbours:5   Precision:0.64   Recall:0.7804878048780488   Accuracy:0.73   f1:0.7032967032967035

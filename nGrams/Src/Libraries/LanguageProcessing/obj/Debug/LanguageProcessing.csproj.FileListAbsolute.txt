@@ -1,0 +1,42 @@
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csprojAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.dll
+C:\Data\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.pdb
+C:\Data\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csprojAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Data\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.dll
+C:\Data\Teaching\Intelligent agents, 2022\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.pdb
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.dll
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.pdb
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csprojAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.dll
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\StartingPoint\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\StartingPoint\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\StartingPoint\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\StartingPoint\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\StartingPoint\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\StartingPoint\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.pdb
+C:\Users\Arman\Box\CAS\Conversational AI\HW1\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.dll
+C:\Users\Arman\Box\CAS\Conversational AI\HW1\Problem1.2\Src\Libraries\LanguageProcessing\bin\Debug\LanguageProcessing.pdb
+C:\Users\Arman\Box\CAS\Conversational AI\HW1\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.AssemblyReference.cache
+C:\Users\Arman\Box\CAS\Conversational AI\HW1\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Box\CAS\Conversational AI\HW1\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.dll
+C:\Users\Arman\Box\CAS\Conversational AI\HW1\Problem1.2\Src\Libraries\LanguageProcessing\obj\Debug\LanguageProcessing.pdb
